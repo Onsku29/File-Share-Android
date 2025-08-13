@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tutorial_step1">Välkommen till File Share! Detta är en introduktion till hur du använder appen. Med File Share kan du enkelt dela filer till din dator när din telefon och din dator är anslutna till samma lokala nätverk.</string>
+    <string name="tutorial_step2">Tryck på knappen ”+ Lägg till enhet” på din telefon och din dator för att para ihop dem. Se till att enheterna är anslutna till samma lokala nätverk.</string>
+    <string name="tutorial_step3">Efter parkopplingen kan du enkelt skicka filer till din dator genom att dela valfri fil på din telefon och söka efter File Share, så länge enheterna är anslutna till samma lokala nätverk.</string>
+    <string name="tutorial_step4">Du kan ta bort enheter genom att trycka och hålla ned deras namn i appen.</string>
+    <string name="tutorial_step5">Det var allt! Du kan se den här introduktionen igen när som helst genom att trycka på frågetecknet i appens övre högra hörn.</string>
+    <string name="add_device">+ Lägg till enhet</string>
+    <string name="close">Stäng</string>
+    <string name="scan_qr_code">Skanna QR-kod</string>
+    <string name="removed">Borttagen</string>
+    <string name="pairing_failed">Parningen misslyckades</string>
+    <string name="devices">Enheter:</string>
+    <string name="next">Nästa</string>
+    <string name="remove_device">Ta bort enhet</string>
+    <string name="remove_confirm">Är du säker på att du vill ta bort</string>
+    <string name="remove">Ta bort</string>
+    <string name="cancel">Avbryt</string>
+    <string name="sending_file">Skickar fil</string>
+    <string name="file_sent">Filen skickad</string>
+    <string name="send_failed">Filen kunde inte skickas</string>
+    <string name="select_device">Välj enhet</string>
+</resources>

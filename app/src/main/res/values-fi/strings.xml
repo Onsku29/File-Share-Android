@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tutorial_step1">Tervetuloa käyttämään File Share -sovellusta! Tässä on lyhyt ohje sovelluksen käyttämiseen. File Share antaa sinun jakaa tiedostoja tietokoneeseesi helposti, kun tietokone ja puhelin ovat yhdistettynä samaan lähiverkkoon.</string>
+    <string name="tutorial_step2">Paina nappia \"+ Lisää laite\" puhelimellasi ja tietokoneellasi muodostaaksesi niistä laiteparin. Varmista, että laitteet on yhdistetty samaan lähiverkkoon.</string>
+    <string name="tutorial_step3">Laiteparin muodostamisen jälkeen voit helposti lähettää tiedostoja tietokoneeseesi jakamalla minkä tahansa tiedoston puhelimellasi ja etsimällä valikosta File Sharen, kunhan laitteet on yhdistetty samaan lähiverkkoon.</string>
+    <string name="tutorial_step4">Voit poistaa laitepareja painamalla ja pitämällä pohjassa niiden nimeä sovelluksessa.</string>
+    <string name="tutorial_step5">Siinä se! Voit avata tämän ohjeen uudestaan milloin tahansa painamalla kysymysmerkkikuvaketta sovelluksen yläoikeassa kulmassa.</string>
+    <string name="add_device">+ Lisää laite</string>
+    <string name="close">Sulje</string>
+    <string name="scan_qr_code">Skannaa QR-koodi</string>
+    <string name="removed">Poistettu</string>
+    <string name="pairing_failed">Laiteparin muodostaminen epäonnistui</string>
+    <string name="devices">Laitteet:</string>
+    <string name="next">Seuraava</string>
+    <string name="remove_device">Poista laite</string>
+    <string name="remove_confirm">Haluatko varmasti poistaa laitteen</string>
+    <string name="remove">Poista</string>
+    <string name="cancel">Peruuta</string>
+    <string name="sending_file">Lähetetään tiedostoa</string>
+    <string name="file_sent">Tiedosto lähetetty</string>
+    <string name="send_failed">Tiedoston lähettäminen epäonnistui</string>
+    <string name="select_device">Valitse laite</string>
+</resources>
