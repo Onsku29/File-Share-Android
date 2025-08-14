@@ -50,8 +50,12 @@ public class DeviceManager {
         } catch (IOException e) {
             Log.e("DeviceManager", "Saving devices failed: " + e);
         }
-        pairedDevices = loadDevices();
+
+        ArrayList<PairedDevice> loaded = loadDevices();
+        pairedDevices.clear();
+        pairedDevices.addAll(loaded);
     }
+
 
     private ArrayList<PairedDevice> loadDevices(){
         try (InputStream inputStream = context.openFileInput(FILE_NAME);

@@ -1,4 +1,4 @@
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_name" translatable="false">File Share</string>
     <string name="tutorial_step1">Welcome to File Share! This is an introduction to using the app. File Share lets you share files to your computer easily when your phone and your computer are connected to the same local network.</string>
     <string name="tutorial_step2">Press the \"+ Add Device\" button on your phone and your computer to pair them together. Make sure the devices are connected to the same local network.</string>
@@ -20,4 +20,5 @@
     <string name="file_sent">File sent</string>
     <string name="send_failed">Failed to send file</string>
     <string name="select_device">Select device</string>
+    <string name="pairing_successful">Paired successfully with <xliff:g id="device">%1$s</xliff:g></string>
 </resources>

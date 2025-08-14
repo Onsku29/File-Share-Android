@@ -236,7 +236,7 @@ public class MainActivity extends AppCompatActivity {
                     deviceManager.addDevice(newDevice);
                     runOnUiThread(() -> {
                         adapter.notifyItemInserted(deviceManager.getPairedDevices().size() - 1);
-                        Toast.makeText(this, "Paired successfully with " + response.serverName, Toast.LENGTH_SHORT).show();
+                        Toast.makeText(this, getString(R.string.pairing_successful, response.serverName), Toast.LENGTH_SHORT).show();
                     });
                 } else {
                     String reason = response.reason != null ? response.reason : "Unknown error";
